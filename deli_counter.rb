@@ -14,6 +14,6 @@ def now_serving(katz_deli)
   end
 end
 
-arr = ["Logan", "Avi", "Spencer"]
-now_serving(arr)
-puts arr
+# arr = ["Logan", "Avi", "Spencer"]
+# now_serving(arr)
+# puts arr
