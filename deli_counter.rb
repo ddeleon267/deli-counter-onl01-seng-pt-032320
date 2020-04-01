@@ -6,7 +6,7 @@ def now_serving(katz_deli)
   else
     #puts "Currently serving #{katz_deli.shift}."
     katz_deli.each do |person|
-      binding.pry
+     
       puts "Currently serving #{person}."
     end
     katz_deli.shift
