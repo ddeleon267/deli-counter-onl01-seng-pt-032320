@@ -16,3 +16,4 @@ end
 
 arr = ["Logan", "Avi", "Spencer"]
 now_serving(arr)
+puts arr
