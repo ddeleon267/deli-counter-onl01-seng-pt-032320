@@ -8,7 +8,7 @@ def now_serving(katz_deli)
     katz_deli.each do |person|
     
       puts "Currently serving #{person}."
-katz_deli.shift
+      katz_deli.shift
       
     end
     
